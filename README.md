@@ -65,7 +65,7 @@ Aqui são configurados os provedores globais, como o `Provider` para injeção d
 - **Android Studio instalado**
 - **Flutter SDK** configurado no seu ambiente
 - Um **dispositivo virtual (emulador)** configurado no Android Studio
-- Uma **conta** no [no bis](https://bsky.social/)
+- Uma **conta** no [Bluesky](https://bsky.social/)
 
 ### **Passo a passo**
 
